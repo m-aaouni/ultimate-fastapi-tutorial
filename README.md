@@ -1,4 +1,5 @@
-# ultimate-fastapi-tutorial
+# FastAPI FOLDER STRUCTURE
+
 The Ultimate FastAPI Tutorial
 
 For detailed explanations and to follow along:
