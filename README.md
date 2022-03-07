@@ -1,4 +1,4 @@
-# FastAPI FOLDER STRUCTURE
+# FastAPI folder structure
 
 The Ultimate FastAPI Tutorial
 
